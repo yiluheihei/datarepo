@@ -1,6 +1,0 @@
-Package: NFPdata
-Version: 0.99.9
-Depends: R (>= 3.2)
-Suggests: NFP
-License: GPL-2
-

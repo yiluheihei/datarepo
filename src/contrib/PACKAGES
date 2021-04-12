@@ -3,6 +3,5 @@ Version: 0.99.9
 Depends: R (>= 3.2)
 Suggests: NFP
 License: GPL-2
-MD5sum: 7cc206114fc25cffec30bbdea3006200
+MD5sum: eefdf557287bb42ce88b0ce32cfb14c5
 NeedsCompilation: no
-
